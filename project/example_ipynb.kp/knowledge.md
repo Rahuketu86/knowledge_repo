@@ -8,7 +8,7 @@ tags:
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00
-updated_at: 2019-01-09 11:40:57.662172
+updated_at: 2019-01-09 11:49:02.578934
 thumbnail: images/output_5_1.png
 tldr: 'You can write any markdown you want here (the ''|'' character makes this an
   escaped section)
