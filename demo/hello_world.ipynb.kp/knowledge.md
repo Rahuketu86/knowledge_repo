@@ -6,7 +6,7 @@ tags:
 - knowledge
 - example
 created_at: 2019-01-09 00:00:00
-updated_at: 2019-01-09 12:37:41.409630
+updated_at: 2019-01-09 12:44:38.462279
 tldr: This is  first genuine post
 ---
 
@@ -80,6 +80,20 @@ plt.show()
 
 
     FigureCanvasNbAgg()
+
+
+
+```python
+def f(x):
+    print(x**2)
+    
+from ipywidgets import interactive
+
+interactive(f, x=(1,10))
+```
+
+
+    interactive(children=(IntSlider(value=5, description='x', max=10, min=1), Output()), _dom_classes=('widget-int…
 
 
 ### Appendix
