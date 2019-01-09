@@ -1,15 +1,47 @@
 ---
-title: This is a Knowledge Template Header
+title: This is a Knowledge Post title, quoted so we can use special characters like
+  ':'
 authors:
 - sally_smarts
-- wesley_wisdom
+- wesly_wisdom
 tags:
 - knowledge
 - example
 created_at: 2016-06-29 00:00:00
-updated_at: 2019-01-09 11:17:19.249925
-tldr: This is short description of the content and findings of the post.
+updated_at: 2019-01-09 11:20:42.886638
 thumbnail: images/output_5_1.png
+tldr: 'You can write any markdown you want here (the ''|'' character makes this an
+  escaped section)
+
+
+  * bullet
+
+  * bullet
+
+
+  You can even write arbitrary html (html is valid markdown)
+
+  <table>
+
+  <tr>
+
+  <th>hi</th>
+
+  <th>I''m </th>
+
+  </tr>
+
+  <tr>
+
+  <td>a</td>
+
+  <td>table</td>
+
+  </tr>
+
+  </table>
+
+  '
 ---
 
 *NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since ipython/beakers require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts.*
